@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<VAST version="2.0">
+    <Ad id="62f23fbe">
+        <InLine>
+            <AdSystem> <![CDATA[Celtra]]> </AdSystem>
+            <AdTitle> <![CDATA[Celtra Ad]]> </AdTitle>
+            <Description> <![CDATA[Celtra VAST]]> </Description>
+            <Error><![CDATA[https://track.celtra.com/pixel.gif?sessionId=s1765393182x390f35d7f7a714x13412392&accountId=7b0b7988&stream=adEvents&name=vastError&code=[ERRORCODE]]]></Error>
+            <Impression><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7Im5hbWUiOiJ2YXN0SW1wcmVzc2lvbiIsImFjY291bnRJZCI6IjdiMGI3OTg4IiwidmlkZW9MZW5ndGgiOjMwLjAsInN0cmVhbSI6ImFkRXZlbnRzIiwic2Vzc2lvbklkIjoiczE3NjUzOTMxODJ4MzkwZjM1ZDdmN2E3MTR4MTM0MTIzOTIifV19?md5=82c91584c0f789f997e9f2d7461c4614&]]></Impression>
+            <Impression><![CDATA[https://tps.doubleverify.com/visit.jpg?tagtype=display&ctx=34342957&cmp=33806331&sid=4943156&plc=431826147&advid=12770194&adsrv=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_126}&prr=1&turl={pageUrlEnc}&auadid={adId}&auadv={advertiserId}&aucmp={campaignId}&audeal={dealId}&auevent={auctionId}&aufilter1={advertiserId}&auip={ipAddress}&autt=2&c1={brandId}&c2={brandName}&c3={campaignGroupId}&c4={campaignGroupName}&c5={campaignName}&c6={networkId}&ppid=109&aubndl={appId}]]></Impression>
+            <Impression><![CDATA[https://pixel.zprk.io/v5/pixel/jt5bIiduiH.gif?ssid=1&gdpr=add_gdpr_macro&consent=add_consent_macro&ut1=345&ut2=miles_media_2a919e9a&ut3=Visit_Greenville_SC&ut4=basis_dsp_e722fc8d&ut5=ctv_08bf61f2&ut6=visit_greenville_sc_fy26_a7845c4b&ut7=Pause]]></Impression>
+            <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N254002.3027484BASISDSP/B33806331.431826147;dc_trk_aid=624539520;dc_trk_cid=243130709;ord=2091747965;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Impression>
+            <Creatives>
+                <Creative sequence="1" id="62f23fbe" AdID="62f23fbe">
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="creativeView"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0Q3JlYXRpdmVWaWV3In1dfQ==?md5=27d39e83acf9f19e9fb0d6bd1b841e32&]]></Tracking>
+                            <Tracking event="start"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7Im5hbWUiOiJjcmVhdGl2ZVJlbmRlcmVkIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJ2aWRlb0xlbmd0aCI6MzAuMCwic3RyZWFtIjoiYWRFdmVudHMiLCJzZXNzaW9uSWQiOiJzMTc2NTM5MzE4MngzOTBmMzVkN2Y3YTcxNHgxMzQxMjM5MiJ9LHsibmFtZSI6InZhc3RWaWRlb1N0YXJ0IiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJ2aWRlb0xlbmd0aCI6MzAuMCwic3RyZWFtIjoiYWRFdmVudHMiLCJzZXNzaW9uSWQiOiJzMTc2NTM5MzE4MngzOTBmMzVkN2Y3YTcxNHgxMzQxMjM5MiJ9XX0=?md5=d5dde551fbfdd95a3d03103b0c920cef&]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0VmlkZW9GaXJzdFF1YXJ0aWxlIn1dfQ==?md5=69793fdb978abc91d28190c897829680&]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0VmlkZW9NaWRwb2ludCJ9XX0=?md5=ee4eab0bb049261042c6b4a8b5a80cbe&]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0VmlkZW9UaGlyZFF1YXJ0aWxlIn1dfQ==?md5=51656e860214ca17f441e0ba46be67b6&]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0VmlkZW9Db21wbGV0ZSJ9XX0=?md5=ad14942f5556faa9d02f97830c3f7390&]]></Tracking>
+                            <Tracking event="close"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0Q2xvc2UifV19?md5=74773f4ac29924adaa476500e9e9c53c&]]></Tracking>
+                            <Tracking event="mute"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0TXV0ZSJ9XX0=?md5=670532d4e6ea49d788f347cf78262916&]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0VW5tdXRlIn1dfQ==?md5=f4768dbd4ac92c1ca36a561675d24b30&]]></Tracking>
+                            <Tracking event="pause"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0UGF1c2UifV19?md5=6332bd0b678c567beb82124405af2b8a&]]></Tracking>
+                            <Tracking event="rewind"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0UmV3aW5kIn1dfQ==?md5=3e490836bab57c4d86e835cafc0ff2c5&]]></Tracking>
+                            <Tracking event="resume"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0UmVzdW1lIn1dfQ==?md5=d5258bb07542d0b206e4509d8d118107&]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0RnVsbHNjcmVlbiJ9XX0=?md5=2420252b56e266d236e4f693be75b761&]]></Tracking>
+                            <Tracking event="expand"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0RXhwYW5kIn1dfQ==?md5=979be25c66d0707c1da002eb2367754f&]]></Tracking>
+                            <Tracking event="collapse"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0Q29sbGFwc2UifV19?md5=1847f772c5b58f27c9057edf1eed3ef8&]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0QWNjZXB0SW52aXRhdGlvbiJ9XX0=?md5=282c415a9f757aa7c50bb15e41ece49f&]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N254002.3027484BASISDSP/B33806331.431826147;dc_trk_aid=624539520;dc_trk_cid=243130709;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1]]></ClickThrough>
+                            <ClickTracking><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7Im5hbWUiOiJjbGljayIsInVybCI6Imh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OMjU0MDAyLjMwMjc0ODRCQVNJU0RTUC9CMzM4MDYzMzEuNDMxODI2MTQ3O2RjX3Rya19haWQ9NjI0NTM5NTIwO2RjX3Rya19jaWQ9MjQzMTMwNzA5O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtsdGQ9O2RjX3Rkdj0xIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsInNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIn1dfQ==?md5=b2cc9c6fecb013a8981dc8546581c88a&]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="1433" width="960" height="540" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/8a84001fe1739f2b21c1ff7dacfe3484401bb8f85c35566eb4513f517f00a437/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="951" width="854" height="480" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/c7e1168c32654df591c24fcacf9f0071fe15a589e6f53d8f6c7f92e71359543f/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="4726" width="1920" height="1080" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/59944b9b4dc46a0cab5f84eb11552d1dae6ece736699141ebf3166949bbb60a9/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="373" width="480" height="270" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/474af372b595815293bb36687b2cf980bd2f0e69c2882cb6a4dd5202236f192d/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="23453" width="1920" height="1080" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/b870eeffda8b3e383629a116dc4b3ca84b4b33e78286aa74b1d9ef9b3f26860f/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="23453" width="1920" height="1080" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/658307e0684588819111bbe5fe84cf0e2b3fa2dbf6476ccfaa7798eb9bc289ff/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="2876" width="1280" height="720" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/51128dfd62d7555f7af8563fa4bd5fef6bb68b529d95b4ed54b37426c20ad106/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="14431" width="1280" height="720" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/b757ae4ac51cb7222d36472b22781b05c0e748a2c9cd6b231176b38b3c32ab2a/Video.mp4]]> </MediaFile>
+                            <MediaFile type="video/mp4" delivery="progressive" bitrate="470" width="640" height="360" scalable="true" maintainAspectRatio="false"> <![CDATA[https://cache-ssl.celtra.com/api/blobs/9677245edfb73f15705867c0cfefce94feb7bddb2fcb0d13ed21d4d23fd2a92b/Video.mp4]]> </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension>
+                    <CustomTracking event="engagedView"><![CDATA[https://track.celtra.com/json/eyJldmVudHMiOlt7InNlc3Npb25JZCI6InMxNzY1MzkzMTgyeDM5MGYzNWQ3ZjdhNzE0eDEzNDEyMzkyIiwiYWNjb3VudElkIjoiN2IwYjc5ODgiLCJzdHJlYW0iOiJhZEV2ZW50cyIsIm5hbWUiOiJ2YXN0RW5nYWdlZFZpZXcifV19?md5=5bd7a5f0f83ba2ca2ee98439a07dfd13&]]></CustomTracking>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
