@@ -1,69 +1,31 @@
-<VAST version="2.0">
-	<Ad id="41968">
-		<InLine>
-			<AdSystem>Martin AI</AdSystem>
-			<AdTitle>Display creative test with XML generation</AdTitle>
-			<Error>
-				<![CDATA[http://10.172.141.153:9000/video/error?advertiserId=17503&assetURI=%5BASSETURI%5D&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeId=41968&creativeType=video&dealId=&deviceType=&dma=&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&placementId=28359&publisherId=&publisherName=&testing=false×tampUTC=1751286864&type=error&status=videoplayfailed&errorCode=[ERRORCODE]]]>
-			</Error>
-			<Error>
-				<![CDATA[https://feed-notif.pubmatic.com/video/error?advertiserId=17319&advertiserName=Activate+Test+Advertiser&appName=ViX&appStoreUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv&assetURI=%5BASSETURI%5D&bidId=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756_40603_41006&campaignId=30338&campaignName=Univision+Pause+Ad+Test&contentGenre=drama&creativeId=41006&creativeName=StaticPauseAd&creativeType=video&dealId=PM-JTTE-5964&deviceIfa=D20D6214-652E-49A1-B5DC-675F908304A6&deviceType=connected_tv&dma=501&doNotTrack=false&domain=&environment=in-app&gdpr=0&gdpr_consent=&inventoryName=ViX&inventorySource=pubmatic&ipAddress=104.129.139.170&ipV6=&isVideo=true&model=7060&page=&placementId=40603&placementName=Univision+Pause+Ad+Test&publisherId=160710&publisherName=&rampId=&skippable=false&supportsCompanions=false&supportsVast3Wrappers=true&supportsVpaidWrappers=false&usPrivacyString=&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+13%3B+ZTE+7060+Build%2FTP1A.220624.014%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%3B+Android+Mobile%3B+Lura+Player%3B+SDKV+4.0.28%29+Version%2F4.0+Chrome%2F141.0.7390.122+Mobile+Safari%2F537.36%2Cgzip%28gfe%29&userId=FEFFEA96-50C9-4DDA-B3F0-F9C05B01DB23&cachebuster=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756&status=videoplayfailed&errorCode=[ERRORCODE]]]>
-			</Error>
-			<Impression>
-				<![CDATA[http://10.172.141.153:9000/video_impression?advertiserId=17503&assetURI=%5BASSETURI%5D&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeId=41968&creativeType=video&dealId=&deviceType=&dma=&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&placementId=28359&publisherId=&publisherName=&testing=false×tampUTC=1751286864&type=impression]]>
-			</Impression>
-			<Creatives>
-				<Creative id="41968" sequence="1">
-					<Linear>
-						<Duration>00:00:30</Duration>
-						<VideoClicks>
-							<ClickThrough id="Display creative test with XML generation">
-								<![CDATA[https://ad-stage.pubmatic.com/click?creativeId=41968&advertiserId=17503&appName=&appStoreUrl=&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeType=video&dealId=&deviceIfa=&deviceType=&devicemodel=&dma=&doNotTrack=false&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&ipAddress=&ipV6=&noRedirect=false&placementId=28359&publisherId=&publisherName=&rampId=×tampUTC=1751286864&usPrivacyString=&userAgent=&userId=]]>
-							</ClickThrough>
-							<ClickTracking>
-								<![CDATA[https://ad-va1.pubmatic.com/click?creativeId=41006&advertiserId=17319&appName=ViX&appStoreUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv&bidId=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756_40603_41006&bundleId=com.univision.prendetv&campaignId=30338&contentGenre=drama&creativeType=video&dealId=PM-JTTE-5964&deviceIfa=D20D6214-652E-49A1-B5DC-675F908304A6&deviceType=connected_tv&devicemodel=7060&dma=501&doNotTrack=false&domain=&environment=in-app&gdpr=0&gdpr_consent=&inventoryName=ViX&inventorySource=pubmatic&ipAddress=104.129.139.170&ipV6=&noRedirect=true&placementId=40603&publisherId=160710&publisherName=&rampId=×tampUTC=1765393395&usPrivacyString=&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+13%3B+ZTE+7060+Build%2FTP1A.220624.014%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%3B+Android+Mobile%3B+Lura+Player%3B+SDKV+4.0.28%29+Version%2F4.0+Chrome%2F141.0.7390.122+Mobile+Safari%2F537.36%2Cgzip%28gfe%29&userId=FEFFEA96-50C9-4DDA-B3F0-F9C05B01DB23]]>
-							</ClickTracking>
-						</VideoClicks>
-						<MediaFiles>
-							<MediaFile id="Display creative test with XML generation" delivery="progressive" height="1080" width="1920" bitrate="500" type="image/jpeg" scalable="true" maintainAspectRatio="true">
-								<![CDATA[https://storage.googleapis.com/martin-bidder-dev/e75197fd-e325-468d-9580-0cf530f49c46.jpg]]>
-							</MediaFile>
-						</MediaFiles>
-						<TrackingEvents>
-							<Tracking event="start">
-								<![CDATA[http://10.172.141.153:9000/video_start?advertiserId=17503&assetURI=%5BASSETURI%5D&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeId=41968&creativeType=video&dealId=&deviceType=&dma=&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&placementId=28359&publisherId=&publisherName=&testing=false×tampUTC=1751286864&type=start]]>
-							</Tracking>
-							<Tracking event="firstQuartile">
-								<![CDATA[http://10.172.141.153:9000/video_first_quartile?advertiserId=17503&assetURI=%5BASSETURI%5D&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeId=41968&creativeType=video&dealId=&deviceType=&dma=&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&placementId=28359&publisherId=&publisherName=&testing=false×tampUTC=1751286864&type=first_quartile]]>
-							</Tracking>
-							<Tracking event="midpoint">
-								<![CDATA[http://10.172.141.153:9000/video_midpoint?advertiserId=17503&assetURI=%5BASSETURI%5D&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeId=41968&creativeType=video&dealId=&deviceType=&dma=&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&placementId=28359&publisherId=&publisherName=&testing=false×tampUTC=1751286864&type=midpoint]]>
-							</Tracking>
-							<Tracking event="thirdQuartile">
-								<![CDATA[http://10.172.141.153:9000/video_third_quartile?advertiserId=17503&assetURI=%5BASSETURI%5D&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeId=41968&creativeType=video&dealId=&deviceType=&dma=&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&placementId=28359&publisherId=&publisherName=&testing=false×tampUTC=1751286864&type=third_quartile]]>
-							</Tracking>
-							<Tracking event="complete">
-								<![CDATA[http://10.172.141.153:9000/video_complete?advertiserId=17503&assetURI=%5BASSETURI%5D&bidId=&bundleId=&campaignId=22274&contentGenre=&creativeId=41968&creativeType=video&dealId=&deviceType=&dma=&domain=&environment=&gdpr=1&gdpr_consent=&inventoryName=&inventorySource=&placementId=28359&publisherId=&publisherName=&testing=false×tampUTC=1751286864&type=complete]]>
-							</Tracking>                         ntt
-							<Tracking event="start">
-								<![CDATA[https://feed-notif.pubmatic.com/video_start?advertiserId=17319&advertiserName=Activate+Test+Advertiser&appName=ViX&appStoreUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv&assetURI=%5BASSETURI%5D&bidId=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756_40603_41006&campaignId=30338&campaignName=Univision+Pause+Ad+Test&contentGenre=drama&creativeId=41006&creativeName=StaticPauseAd&creativeType=video&dealId=PM-JTTE-5964&deviceIfa=D20D6214-652E-49A1-B5DC-675F908304A6&deviceType=connected_tv&dma=501&doNotTrack=false&domain=&environment=in-app&gdpr=0&gdpr_consent=&inventoryName=ViX&inventorySource=pubmatic&ipAddress=104.129.139.170&ipV6=&isVideo=true&model=7060&page=&placementId=40603&placementName=Univision+Pause+Ad+Test&publisherId=160710&publisherName=&rampId=&skippable=false&supportsCompanions=false&supportsVast3Wrappers=true&supportsVpaidWrappers=false&usPrivacyString=&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+13%3B+ZTE+7060+Build%2FTP1A.220624.014%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%3B+Android+Mobile%3B+Lura+Player%3B+SDKV+4.0.28%29+Version%2F4.0+Chrome%2F141.0.7390.122+Mobile+Safari%2F537.36%2Cgzip%28gfe%29&userId=FEFFEA96-50C9-4DDA-B3F0-F9C05B01DB23&cachebuster=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756]]>
-							</Tracking>ntt
-							<Tracking event="firstQuartile">
-								<![CDATA[https://feed-notif.pubmatic.com/video_first_quartile?advertiserId=17319&advertiserName=Activate+Test+Advertiser&appName=ViX&appStoreUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv&assetURI=%5BASSETURI%5D&bidId=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756_40603_41006&campaignId=30338&campaignName=Univision+Pause+Ad+Test&contentGenre=drama&creativeId=41006&creativeName=StaticPauseAd&creativeType=video&dealId=PM-JTTE-5964&deviceIfa=D20D6214-652E-49A1-B5DC-675F908304A6&deviceType=connected_tv&dma=501&doNotTrack=false&domain=&environment=in-app&gdpr=0&gdpr_consent=&inventoryName=ViX&inventorySource=pubmatic&ipAddress=104.129.139.170&ipV6=&isVideo=true&model=7060&page=&placementId=40603&placementName=Univision+Pause+Ad+Test&publisherId=160710&publisherName=&rampId=&skippable=false&supportsCompanions=false&supportsVast3Wrappers=true&supportsVpaidWrappers=false&usPrivacyString=&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+13%3B+ZTE+7060+Build%2FTP1A.220624.014%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%3B+Android+Mobile%3B+Lura+Player%3B+SDKV+4.0.28%29+Version%2F4.0+Chrome%2F141.0.7390.122+Mobile+Safari%2F537.36%2Cgzip%28gfe%29&userId=FEFFEA96-50C9-4DDA-B3F0-F9C05B01DB23&cachebuster=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756]]>
-							</Tracking>ntt
-							<Tracking event="midpoint">
-								<![CDATA[https://feed-notif.pubmatic.com/video_midpoint?advertiserId=17319&advertiserName=Activate+Test+Advertiser&appName=ViX&appStoreUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv&assetURI=%5BASSETURI%5D&bidId=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756_40603_41006&campaignId=30338&campaignName=Univision+Pause+Ad+Test&contentGenre=drama&creativeId=41006&creativeName=StaticPauseAd&creativeType=video&dealId=PM-JTTE-5964&deviceIfa=D20D6214-652E-49A1-B5DC-675F908304A6&deviceType=connected_tv&dma=501&doNotTrack=false&domain=&environment=in-app&gdpr=0&gdpr_consent=&inventoryName=ViX&inventorySource=pubmatic&ipAddress=104.129.139.170&ipV6=&isVideo=true&model=7060&page=&placementId=40603&placementName=Univision+Pause+Ad+Test&publisherId=160710&publisherName=&rampId=&skippable=false&supportsCompanions=false&supportsVast3Wrappers=true&supportsVpaidWrappers=false&usPrivacyString=&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+13%3B+ZTE+7060+Build%2FTP1A.220624.014%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%3B+Android+Mobile%3B+Lura+Player%3B+SDKV+4.0.28%29+Version%2F4.0+Chrome%2F141.0.7390.122+Mobile+Safari%2F537.36%2Cgzip%28gfe%29&userId=FEFFEA96-50C9-4DDA-B3F0-F9C05B01DB23&cachebuster=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756]]>
-							</Tracking>ntt
-							<Tracking event="thirdQuartile">
-								<![CDATA[https://feed-notif.pubmatic.com/video_third_quartile?advertiserId=17319&advertiserName=Activate+Test+Advertiser&appName=ViX&appStoreUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv&assetURI=%5BASSETURI%5D&bidId=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756_40603_41006&campaignId=30338&campaignName=Univision+Pause+Ad+Test&contentGenre=drama&creativeId=41006&creativeName=StaticPauseAd&creativeType=video&dealId=PM-JTTE-5964&deviceIfa=D20D6214-652E-49A1-B5DC-675F908304A6&deviceType=connected_tv&dma=501&doNotTrack=false&domain=&environment=in-app&gdpr=0&gdpr_consent=&inventoryName=ViX&inventorySource=pubmatic&ipAddress=104.129.139.170&ipV6=&isVideo=true&model=7060&page=&placementId=40603&placementName=Univision+Pause+Ad+Test&publisherId=160710&publisherName=&rampId=&skippable=false&supportsCompanions=false&supportsVast3Wrappers=true&supportsVpaidWrappers=false&usPrivacyString=&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+13%3B+ZTE+7060+Build%2FTP1A.220624.014%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%3B+Android+Mobile%3B+Lura+Player%3B+SDKV+4.0.28%29+Version%2F4.0+Chrome%2F141.0.7390.122+Mobile+Safari%2F537.36%2Cgzip%28gfe%29&userId=FEFFEA96-50C9-4DDA-B3F0-F9C05B01DB23&cachebuster=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756]]>
-							</Tracking>ntt
-							<Tracking event="complete">
-								<![CDATA[https://feed-notif.pubmatic.com/video_complete?advertiserId=17319&advertiserName=Activate+Test+Advertiser&appName=ViX&appStoreUrl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.univision.prendetv&assetURI=%5BASSETURI%5D&bidId=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756_40603_41006&campaignId=30338&campaignName=Univision+Pause+Ad+Test&contentGenre=drama&creativeId=41006&creativeName=StaticPauseAd&creativeType=video&dealId=PM-JTTE-5964&deviceIfa=D20D6214-652E-49A1-B5DC-675F908304A6&deviceType=connected_tv&dma=501&doNotTrack=false&domain=&environment=in-app&gdpr=0&gdpr_consent=&inventoryName=ViX&inventorySource=pubmatic&ipAddress=104.129.139.170&ipV6=&isVideo=true&model=7060&page=&placementId=40603&placementName=Univision+Pause+Ad+Test&publisherId=160710&publisherName=&rampId=&skippable=false&supportsCompanions=false&supportsVast3Wrappers=true&supportsVpaidWrappers=false&usPrivacyString=&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+13%3B+ZTE+7060+Build%2FTP1A.220624.014%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%3B+Android+Mobile%3B+Lura+Player%3B+SDKV+4.0.28%29+Version%2F4.0+Chrome%2F141.0.7390.122+Mobile+Safari%2F537.36%2Cgzip%28gfe%29&userId=FEFFEA96-50C9-4DDA-B3F0-F9C05B01DB23&cachebuster=1379BCC5-3C4F-4CB8-B0A6-3552FBDE1756]]>
-							</Tracking>
-						</TrackingEvents>
-					</Linear>
-				</Creative>
-			</Creatives>
-		</InLine>
-	</Ad>
+<VAST version="3.0">
+  <Ad id="img-001">
+    <InLine>
+      <AdSystem>SampleAdServer</AdSystem>
+      <AdTitle>Image Ad</AdTitle>
+
+      <Impression><![CDATA[
+        https://httpbin.org/get?event=impression
+      ]]></Impression>
+
+      <Creatives>
+        <Creative>
+          <NonLinearAds>
+            <NonLinear width="300" height="250">
+              
+              <StaticResource creativeType="image/jpeg"><![CDATA[
+                https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg
+              ]]></StaticResource>
+
+              <NonLinearClickThrough><![CDATA[
+                https://example.com
+              ]]></NonLinearClickThrough>
+
+            </NonLinear>
+          </NonLinearAds>
+        </Creative>
+      </Creatives>
+
+    </InLine>
+  </Ad>
 </VAST>
